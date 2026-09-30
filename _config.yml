@@ -1,8 +1,8 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
+title: "Workshop Recording: Introduction to Using MAXQDA & AI for Qualitative Data Analysis: Part 3 (Feb. 26, 2026)"
 description: "Workshops and guides from the Map & Data Library, University of Toronto"
-url: "https://MDLutoronto.github.io/jtd-template" # change the slug to the repo's name ('jtd-template' in this case)
-repository: "MDLutoronto/jtd-template" # for github-metadata
+url: "https://MDLutoronto.github.io/workshop-intro-maxqda-qualitative-part3-feb-26-2026" # change the slug to the repo's name ('jtd-template' in this case)
+repository: "MDLutoronto/workshop-intro-maxqda-qualitative-part3-feb-26-2026" # for github-metadata
 ## Navigation footer logos and links
 ## Change it only if you want to use different logos or links
 ## Logos should be placed in the /assets/images/ directory, or you can use an external image link
